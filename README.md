@@ -31,7 +31,7 @@ you'll see something like this:
 
 ![Chef Automate image 1](images/Automate-01.png)
 
-![Chef Automate image 2](images/Automate-01.png)
+![Chef Automate image 2](images/Automate-02.png)
 
 ## Using Waivers
 
