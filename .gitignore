@@ -1,0 +1,10 @@
+.vagrant
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+automate-credentials.toml
+automate-eas.toml
+automate.cert
