@@ -1,0 +1,29 @@
+[waivers."1.1.1.1_Ensure_mounting_of_cramfs_filesystems_is_disabled"]
+run = false
+justification = "Waived to show how it can be waived - Joe Auditor approved"
+expiration_date = "2020-10-01"
+
+[waivers."1.3.1_Ensure_AIDE_is_installed"]
+run = false
+justification = "Waived to show how it can be waived - Joe Auditor approved"
+expiration_date = "2020-10-01"
+
+[waivers."5.2.11_Ensure_SSH_PermitEmptyPasswords_is_disabled"]
+run = false
+justification = "Waived to show how it can be waived - Joe Auditor approved"
+expiration_date = "2020-10-01"
+
+[waivers."5.2.14_Ensure_SSH_access_is_limited"]
+run = false
+justification = "Waived to show how it can be waived - Joe Auditor approved"
+expiration_date = "2020-10-01"
+
+[waivers."5.2.4_Ensure_SSH_Protocol_is_set_to_2"]
+run = false
+justification = "Waived to show how it can be waived - Joe Auditor approved"
+expiration_date = "2020-10-01"
+
+[waivers."5.4.1.2_Ensure_minimum_days_between_password_changes_is_7_or_more"]
+run = false
+justification = "Waived to show how it can be waived - Joe Auditor approved"
+expiration_date = "2020-10-01"
